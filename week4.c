@@ -13,7 +13,6 @@
 //     printf("addTen in main = %d\n" , y);
 //     printf("addTwenty in main = %d\n" , addTwenty());
 // }
-// // implement ตรงนี้
 // int addTwenty(){
 //     x += 20;
 //     return x;
